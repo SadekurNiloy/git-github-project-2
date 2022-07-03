@@ -3,3 +3,7 @@ body {
     margin: 0;
     font-family: Impact, sans-serif;
 }
+.container {
+    width: 90%;
+    margin: auto;
+}
